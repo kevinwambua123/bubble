@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hero{
+
+}
+.pizza{
+    display: flex;
+    gap: 20px;
+    justify-items: center;
+}
+.button{
+background-color: darkgreen;
+    border: 2px solid;
+    padding: 10px 20px;
+}
+div{
+    padding-left:100px;
+    padding-bottom:50px;
+}
+.box{
+    border-radius: 10%;
+    justify-items: right;
+}
